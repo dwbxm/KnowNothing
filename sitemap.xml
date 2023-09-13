@@ -2,17 +2,23 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://example.org/fa/sitemap.xml</loc>
+    <loc>/fa/sitemap.xml</loc>
+    
+      <lastmod>2023-06-12T15:56:47-04:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://example.org/no/sitemap.xml</loc>
+    <loc>/no/sitemap.xml</loc>
+    
+      <lastmod>2023-06-12T15:56:47-04:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://example.org/en/sitemap.xml</loc>
+    <loc>/en/sitemap.xml</loc>
+    
+      <lastmod>2023-06-12T15:56:47-04:00</lastmod>
     
   </sitemap>
   
